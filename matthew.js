@@ -73,13 +73,13 @@ Tasked with everything outward facing and related to work that needs to be done 
 /* Compiler
 
 Description:
+Node JS Utilizes the V8's JIT compiler
 A compiler is a computer program that translate written code into another programming language or machine level language.
 
 Example:
 Certain code / languages require compilers to translate intructions that the machine or computer can understand.
 An example of languages that require compilers to run: C, C++, C#, CLEO, COBOL.
-
-We use the SASS compiler to compile scss files into css files.
+The compiler takes over and transforms frequently executed code segments into highly optimized code
 
 
 How it works:
